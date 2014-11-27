@@ -1,3 +1,4 @@
+# configure activemq package
 class activemq::config {
 
   file {
